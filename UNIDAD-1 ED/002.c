@@ -20,4 +20,15 @@ int main()
     return 0;
 }
 
+//especficadores
+/*
+%d numero entero
+%D numero entero largo
+%f numeros con punto flotante, menos preciso que double
+%lf numero con punto flotante, pero con mas precision (double)
+%c caracter
+%s cadena de texto
+*/
+
+
 
