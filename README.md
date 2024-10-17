@@ -8,5 +8,5 @@
 - PASO POR VALOR
 - PRACTICAS CON C (EXAMEN)
 
-## **UNIDAD 2: ** 
+## **UNIDAD 2:** 
 - ARREGLOS
