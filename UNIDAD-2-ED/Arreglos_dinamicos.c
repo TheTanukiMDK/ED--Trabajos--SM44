@@ -5,8 +5,6 @@
 char **solicitarEspacioMemoria(int cantidadAlimentos){
     char **nombreAlimentos = (char **)malloc(cantidadAlimentos * sizeof(char *)); //puntero de punteros a cadena/caracteres
 
-    
-
     return nombreAlimentos;
 }
 
