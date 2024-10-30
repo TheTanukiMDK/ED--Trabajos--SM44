@@ -7,9 +7,9 @@ int recibirEdad(int edad)
 
 int main()
 {
-     int edad = recibirEdad(edad);
+    int edad = recibirEdad(edad);
     printf("ingresa tu edad");
-     scanf("%d", &edad);
+    scanf("%d", &edad);
 
 
     if (edad >= 18)
